@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="-AJvXKWNjJolSsu8kX5VFglUcnmfourCVE6binFxq98" />
 # mygames<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
